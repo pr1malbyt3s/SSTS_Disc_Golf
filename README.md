@@ -13,19 +13,19 @@ Please reference the Projects and Issues tabs for current progress.
   - Adding a course
   - Adding a layout
   - Adding a player
-  - Adding new holes
+  - Adding new holes  
 Anytime the database the updated CSV files are submitted to the database, existing entries should not be affected.
 
 2) Please make a new branch for the following:
   - Updating the existing database schema
-  - Adding a new table
+  - Adding a new table  
 This could break some stuff and be a pain to fix after the fact. When you create your new branch and are done with updates, submit a pull request and assign @pr1malbyt3s (Aaron) as the reviewer. If the updates are good, changes will be merged and the branch closed. Otherwise, some tasks will be reassigned to you for fixes.
 
 ### Updating the Codebase:
 Please make a new branch for every change to the code. The issues queue contains tasks to be completed. If a relevant issue does not exist for the change being made, please create one. Once your changes are complete and ready for review, please do the following:
-1) Attach the added/altered file(s) to the issue.
-2) Submit a pull request and assign @pr1malbyt3s (Aaron) as the reviewer.
-3) If the updates are good, changes will be merged and the branch closed. Otherwise, some tasks will be reassigned to you for fixes.
+1) Link the issue in the commit message.
+2) Submit a pull request and assign @pr1malbyt3s (Aaron) as the reviewer.  
+If the updates are good, changes will be merged and the branch closed. Otherwise, some tasks will be reassigned to you for fixes.
 
 ### Resources:
 Helpful for understanding the schema:
